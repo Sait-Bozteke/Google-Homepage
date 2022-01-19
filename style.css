@@ -1,0 +1,33 @@
+.banner{
+background-color: burlywood;
+color: white;
+margin-top: 75px;
+text-align: center;
+padding: 100px 0px;
+}
+img{
+    width: 100px;
+    height: 100px;
+    
+}
+#box{
+    color: darkblue;
+    font-size: 100px;
+font-weight: bold;
+
+}
+.bold{
+font-weight: bold;
+
+}
+ul{
+list-style: url(./images/rocket.png);
+
+
+}
+
+button:hover{
+background-color: red;
+color:white;
+
+}
